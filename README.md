@@ -2,12 +2,12 @@
 Analysez des données de systèmes éducatifs
 
 
-Problème à résoudre
+# Problème à résoudre
 Vous êtes Data Scientist dans une start-up EdTech , appelée Academy , qui propose des contenus de formation en ligne pour des publics de niveau lycée et université.
 
 Mark, votre manager, vous a invité à une réunion pour vous présenter le plan d'expansion internationale de l'entreprise.
 
-Votre mission
+## Votre mission
 Déterminer si les données sur l'éducation de la Banque mondiale permettent d'éclairer le plan d'expansion.
 
 Voici les différentes questions que Mark aimerait explorer, que vous avez notées lors de la réunion :
